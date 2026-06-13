@@ -1,7 +1,7 @@
 # Hi, I'm Sanjana Peter 👋
 
 **Senior Full Stack Engineer · Technical Lead · AI-Powered SaaS**  
-📍 New York, NY &nbsp;|&nbsp; 🌐 [sanjanapeter71.github.io](https://sanjanapeter71.github.io) &nbsp;|&nbsp; 💼 [linkedin.com/in/sanjana-peter](https://linkedin.com/in/sanjana-peter)
+📍 New York, NY &nbsp;|&nbsp; 💼 [linkedin.com/in/sanjana-peter](https://linkedin.com/in/sanjana-peter)
 
 ---
 
@@ -54,6 +54,34 @@ Reusable CI/CD workflow templates for automated testing, build validation, and d
 
 ---
 
+## 💼 Experience
+
+### iSpace Inc. — Senior Software Engineer
+*Jun 2025 – Present*
+
+- Led recommendation and personalization services for **Korn Ferry TalentSuite Learning Lab**
+- Architected a configurable recommendation engine using json-rules-engine, reducing client onboarding effort by ~30%
+- Built scalable backend services using NestJS, TypeScript, PostgreSQL, and TypeORM
+- Integrated external learning providers and enterprise APIs for content, reporting, and progress synchronization
+- Improved API response times by ~20% through query optimization and indexing strategies
+
+### Eliptico IT Solutions — Technical Lead / Senior Software Engineer
+*Oct 2020 – Jul 2023*
+
+- Led a cross-functional team of **12 engineers** across frontend, backend, QA, and product functions
+- Owned architecture decisions, sprint planning, code reviews, and production releases
+- Delivered enterprise SaaS platforms supporting learning, coaching, and talent management workflows
+- Improved PostgreSQL query performance by up to **50%** through indexing and execution plan optimization
+- Built HIPAA-compliant backend services with Azure AD SAML 2.0 SSO, JWT, OAuth, and RBAC
+
+### Techlet Solutions — Software Engineer
+*Jul 2016 – Sep 2020*
+
+- Built full-stack applications using React, Redux, Node.js, PHP, MySQL, MongoDB, and Elasticsearch
+- Designed 100+ REST APIs, backend workflows, and database-driven services across 5–6 enterprise projects
+
+---
+
 ## 📌 Career Highlights
 
 - 🏢 Built the **Korn Ferry TalentSuite Learning Lab** — recommendation engine, AI role-play integrations, and 15+ core APIs serving Fortune 500 clients
@@ -74,8 +102,9 @@ Reusable CI/CD workflow templates for automated testing, build validation, and d
 
 ## 📫 Let's connect
 
-Open to **Senior Full Stack Engineer**, **Senior Backend Engineer**, **Technical Lead**, and **Staff Engineer** roles.
+Open to **Senior Full Stack Engineer**, **Senior Backend Engineer**, **Technical Lead**, **Staff Engineer**, **Solutions Engineer**, and **Technical Consultant** roles.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sanjanapeter71.github.io-3b82f6?style=flat&logo=github)](https://sanjanapeter71.github.io)
+[![Resume](https://img.shields.io/badge/Resume-Download-6366f1?style=flat&logo=adobeacrobatreader)](https://github.com/sanjanapeterlead/sanjanapeterlead/raw/main/Resume.pdf)
+[![Book a Call](https://img.shields.io/badge/Book_a_Call-30_min-22c55e?style=flat&logo=googlecalendar)](https://cal.com/sanjanapeter/30min)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sanjana--peter-0a66c2?style=flat&logo=linkedin)](https://linkedin.com/in/sanjana-peter)
 [![Email](https://img.shields.io/badge/Email-sanjanapeter.career@gmail.com-ea4335?style=flat&logo=gmail)](mailto:sanjanapeter.career@gmail.com)
