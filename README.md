@@ -66,6 +66,31 @@ Reusable CI/CD workflow templates for automated testing, build validation, and d
 
 ---
 
+### 📊 [Google Sheets Instagram Enricher](https://github.com/sanjanapeterlead/google-sheets-instagram-enricher)
+Reads Instagram usernames from Google Sheets, fetches profile stats, and writes results back to the sheet.  
+`Python` `Google Sheets API` `Apify` `Tkinter`
+
+---
+
+### 🔒 [Secure Autofill](https://github.com/sanjanapeterlead/secure-autofill)
+Local-only Chrome extension for encrypted job-application autofill — no backend, no tracking.  
+`Chrome Extension` `JavaScript` `Web Crypto`
+
+---
+
+## 📂 Public repositories
+
+| Project | Link |
+|---------|------|
+| CareerPilot AI | [github.com/sanjanapeterlead/careerpilot-ai](https://github.com/sanjanapeterlead/careerpilot-ai) |
+| Personal AI Avatar | [github.com/sanjanapeterlead/personal-ai-avatar](https://github.com/sanjanapeterlead/personal-ai-avatar) |
+| Seed-to-Social | [github.com/sanjanapeterlead/seed-to-social](https://github.com/sanjanapeterlead/seed-to-social) |
+| GitHub Actions CI/CD | [github.com/sanjanapeterlead/github-actions-cicd-platform](https://github.com/sanjanapeterlead/github-actions-cicd-platform) |
+| Google Sheets Instagram Enricher | [github.com/sanjanapeterlead/google-sheets-instagram-enricher](https://github.com/sanjanapeterlead/google-sheets-instagram-enricher) |
+| Secure Autofill | [github.com/sanjanapeterlead/secure-autofill](https://github.com/sanjanapeterlead/secure-autofill) |
+
+---
+
 ## 💼 Experience
 
 ### iSpace Inc. — Senior Software Engineer
