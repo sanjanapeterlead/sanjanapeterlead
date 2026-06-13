@@ -42,9 +42,21 @@ Detected Bluejacking, Bluesnarfing, and Braktooth BLE attack patterns.
 
 ---
 
-### 📋 [CareerPilot-Apply](https://careerpilot-apply.vercel.app/)
-Job application management platform — track applications, manage outreach, and improve job-search execution.  
-`React` `Node.js` `Tailwind CSS` `Vercel`
+### 📋 [CareerPilot AI](https://github.com/sanjanapeterlead/careerpilot-ai)
+Job-search operating system — application tracking, fit scoring, resume lab, and application kits.  
+`Next.js` `TypeScript` `Supabase` `Tailwind CSS`
+
+---
+
+### 🤖 [Personal AI Avatar](https://github.com/sanjanapeterlead/personal-ai-avatar)
+RAG-powered recruiter chatbot that answers questions from your resume, projects, and docs.  
+`Python` `FastAPI` `RAG` `LLM`
+
+---
+
+### 🌱 [Seed-to-Social](https://github.com/sanjanapeterlead/seed-to-social)
+Turn one content idea into platform-specific social posts with Ollama and Supabase analytics.  
+`Next.js` `TypeScript` `Ollama` `Supabase`
 
 ---
 
