@@ -48,7 +48,7 @@ Job application management platform — track applications, manage outreach, and
 
 ---
 
-### ⚙️ [GitHub Actions CI/CD Platform](https://github.com/SanjanaPeter71/github-actions-cicd-platform)
+### ⚙️ [GitHub Actions CI/CD Platform](https://github.com/sanjanapeterlead/github-actions-cicd-platform)
 Reusable CI/CD workflow templates for automated testing, build validation, and deployment pipelines.  
 `GitHub Actions` `Docker` `CI/CD` `Automation`
 
