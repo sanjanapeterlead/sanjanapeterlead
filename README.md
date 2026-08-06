@@ -1,172 +1,273 @@
-<h1 align="center">Hi, I'm Sanjana Peter 👋</h1>
-
 <p align="center">
-  <strong>Senior Software Engineer · Backend-Focused Full Stack · Enterprise SaaS</strong><br/>
-  Node.js · TypeScript · NestJS · React · PostgreSQL · AWS
+  <img src="./assets/profile-banner.svg" width="100%" alt="Sanjana Peter — Senior Software Engineer">
 </p>
 
 <p align="center">
-  📍 New York, USA · <strong>8+ years</strong> building enterprise applications, backend services, APIs, and integration platforms
+  New York, USA &nbsp;·&nbsp; 8+ years of experience &nbsp;·&nbsp; Open to senior backend, backend-focused full-stack, and technical-lead roles
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sanjana-peter" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-sanjana--peter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-  <a href="mailto:sanjanapeter.career@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-sanjanapeter.career@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sanjana Peter" />
-  </a>
-  <a href="https://cal.com/sanjanapeter/30min" target="_blank">
-    <img src="https://img.shields.io/badge/Book_a_Call-30_min-22C55E?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a 30-minute call" />
-  </a>
+  <a href="https://linkedin.com/in/sanjanapeterlead">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:sanjanapeter.career@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://cal.com/sanjanapeter/30min">Book a call</a>
 </p>
 
 ---
 
-## About Me
+## Engineering Focus
 
-I am a senior software engineer with 8+ years of experience building enterprise SaaS applications across backend and frontend systems. My strongest areas are Node.js, TypeScript, NestJS, PostgreSQL, React, REST APIs, enterprise integrations, database performance, and technical leadership.
-
-Most recently, I worked through **iSpace Inc.** for **Korn Ferry TalentSuite**, contributing to recommendation, personalization, integration, and enterprise learning workflows. I have also led cross-functional engineering teams and delivered software for learning, coaching, talent-management, and healthcare-related platforms.
-
-I am currently targeting **Senior Software Engineer**, **Senior Backend Engineer**, **backend-focused Senior Full Stack Engineer**, and selected **Technical Lead** opportunities.
-
-> I build maintainable enterprise systems, improve performance where it matters, and take ownership from technical design through delivery.
+<table>
+<tr>
+<td width="33%" valign="top">
+<p align="center"><img src="./assets/icons/backend.svg" width="36" alt="Backend systems"></p>
+<h3 align="center">Backend Systems</h3>
+<p align="center">APIs, service layers, data models, rule engines, performance tuning, and production integrations.</p>
+</td>
+<td width="33%" valign="top">
+<p align="center"><img src="./assets/icons/enterprise.svg" width="36" alt="Enterprise platforms"></p>
+<h3 align="center">Enterprise Platforms</h3>
+<p align="center">SSO, SAML, OAuth, RBAC, healthcare workflows, learning systems, and configurable SaaS products.</p>
+</td>
+<td width="33%" valign="top">
+<p align="center"><img src="./assets/icons/ai.svg" width="36" alt="Applied AI"></p>
+<h3 align="center">Applied AI</h3>
+<p align="center">Tool-using agents, MCP servers, RAG workflows, document processing, and ML-backed applications.</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## Selected Impact
+## Impact at a Glance
 
-- Architected a configurable recommendation engine using `json-rules-engine`, reducing client onboarding effort by approximately **30%**
-- Improved API response times by approximately **20%** through PostgreSQL query optimization and indexing
-- Led a cross-functional team of **12 engineers** across frontend, backend, QA, and product delivery
-- Improved PostgreSQL query performance by up to **50%** using indexing and execution-plan analysis
-- Designed **100+ REST APIs** and backend workflows across 5–6 enterprise projects
-- Built an ML research pipeline that achieved **95.11% accuracy** and **91.99% F1** for BLE intrusion detection
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+<h2>30%</h2>
+Reduced client-configuration effort through a configurable recommendation engine
+</td>
+<td width="25%" align="center" valign="top">
+<h2>50%</h2>
+Improved PostgreSQL query performance through indexing and execution-plan analysis
+</td>
+<td width="25%" align="center" valign="top">
+<h2>12</h2>
+Engineers led across frontend, backend, QA, and product delivery
+</td>
+<td width="25%" align="center" valign="top">
+<h2>100+</h2>
+REST APIs and backend workflows designed across enterprise projects
+</td>
+</tr>
+</table>
 
 ---
 
-## Selected Projects
+## Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<p><img src="./assets/icons/agent.svg" width="30" alt="AI agent"></p>
+
+### [MCP Incident Triage Agent](https://github.com/sanjanapeterlead/mcp-incident-triage-agent)
+
+A Groq-powered TypeScript agent that connects to a custom MCP server over stdio, invokes validated service-health and log-analysis tools, and generates evidence-based incident summaries.
+
+`TypeScript` `Groq` `OpenAI Agents SDK` `MCP` `Zod` `Vitest`
+</td>
+<td width="50%" valign="top">
+<p><img src="./assets/icons/avatar.svg" width="30" alt="Personal AI avatar"></p>
 
 ### [Personal AI Avatar](https://github.com/sanjanapeterlead/personal-ai-avatar)
+
 A document-grounded recruiter assistant that answers questions using resume, project, and supporting profile information.
 
-**Focus:** retrieval-augmented generation, document ingestion, question answering, and recruiter-facing AI experiences
+`RAG` `Document Ingestion` `LLM Workflows` `Question Answering`
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<p><img src="./assets/icons/workflow.svg" width="30" alt="CI/CD workflow"></p>
 
 ### [GitHub Actions CI/CD Platform](https://github.com/sanjanapeterlead/github-actions-cicd-platform)
+
 A reusable CI/CD workflow template with a sample Dockerized Node.js API.
 
-**Focus:** delivery automation, Docker, GitHub Actions, and reusable engineering workflows
+`GitHub Actions` `Docker` `Node.js` `CI/CD` `Testing`
+</td>
+<td width="50%" valign="top">
+<p><img src="./assets/icons/secure.svg" width="30" alt="Secure application"></p>
 
 ### [Secure Autofill](https://github.com/sanjanapeterlead/secure-autofill)
+
 A local-first Chrome extension for securely storing and autofilling job-application information.
 
-**Focus:** browser extensions, local data protection, encryption, and job-search workflow automation
+`Chrome Extension` `Encryption` `Local Storage` `Workflow Automation`
+</td>
+</tr>
 
-### Research Highlight: [BLE Intrusion Detection](https://github.com/ryan-munger/BLE-Classification-V2)
-A Random Forest intrusion-detection research project that achieved **95.11% accuracy** and **91.99% F1** on BLE cyberattack classification.
+<tr>
+<td width="50%" valign="top">
+<p><img src="./assets/icons/research.svg" width="30" alt="Research project"></p>
+
+### [BLE Intrusion Detection](https://github.com/ryan-munger/BLE-Classification-V2)
+
+A Random Forest intrusion-detection research project for BLE cyberattack classification.
+
+`95.11% Accuracy` `91.99% F1 Score` `Python` `Scikit-learn`
+</td>
+<td width="50%" valign="top">
+<p><img src="./assets/icons/content.svg" width="30" alt="Content automation"></p>
+
+### [Seed-to-Social](https://github.com/sanjanapeterlead/seed-to-social)
+
+Converts one content idea into multi-platform social posts using local AI and structured workflows.
+
+`Ollama` `Supabase` `Automation` `LLM Workflows`
+</td>
+</tr>
+</table>
 
 <details>
-<summary><strong>Additional Projects</strong></summary>
+<summary><strong>Additional project</strong></summary>
 
-- [Seed-to-Social](https://github.com/sanjanapeterlead/seed-to-social) — Converts one content idea into multi-platform social posts using Ollama and Supabase
-- [Google Sheets Instagram Enricher](https://github.com/sanjanapeterlead/google-sheets-instagram-enricher) — Enriches Google Sheets data with Instagram profile statistics through a CLI and desktop UI
+<br>
+
+- [Google Sheets Instagram Enricher](https://github.com/sanjanapeterlead/google-sheets-instagram-enricher) — Enriches spreadsheet data with Instagram profile statistics through a CLI and desktop UI.
 
 </details>
 
 ---
 
-## Technical Skills
+## Technical Toolkit
 
-### Backend and Architecture
-
+**Backend and architecture**  
 `Node.js` · `TypeScript` · `JavaScript` · `NestJS` · `Express` · `REST APIs` · `Microservices` · `System Design` · `Performance Tuning`
 
-### Frontend
-
+**Frontend**  
 `React` · `Next.js` · `Redux` · `Zustand` · `TanStack Query` · `Material UI` · `React Hook Form` · `Tailwind CSS`
 
-### Data, Cloud, and Delivery
+**Data, cloud, and delivery**  
+`PostgreSQL` · `MongoDB` · `Redis` · `Elasticsearch` · `AWS` · `Azure` · `Docker` · `GitHub Actions` · `CI/CD`
 
-`PostgreSQL` · `MongoDB` · `Redis` · `DynamoDB` · `Elasticsearch` · `AWS` · `Azure` · `Docker` · `GitHub Actions` · `CI/CD`
+**Testing and quality**  
+`Jest` · `Vitest` · `Postman` · `JMeter` · `Unit Testing` · `Integration Testing` · `API Testing` · `Performance Testing`
 
-### Testing and Quality
+**Applied AI and machine learning**  
+`Python` · `FastAPI` · `Scikit-learn` · `Random Forest` · `RAG` · `AI Agents` · `Model Context Protocol`
 
-`Postman` · `JMeter` · `API Testing` · `Performance Testing` · `Manual Functional Testing` · `Regression Testing`
-
-### Applied AI and Machine Learning
-
-`Python` · `FastAPI` · `Scikit-learn` · `Random Forest` · `LLM Workflows` · `RAG` · `AI Agents` · `MCP`
-
-### Security and Enterprise Identity
-
-`OAuth 2.0` · `JWT` · `RBAC` · `SAML 2.0` · `SSO` · `Azure AD` · `HIPAA-regulated workflows`
+**Security and enterprise identity**  
+`OAuth 2.0` · `JWT` · `RBAC` · `SAML 2.0` · `SSO` · `Azure AD` · `HIPAA-Regulated Workflows`
 
 ---
 
-## Professional Experience
+## Career Snapshot
+
+```text
+2025–2026  iSpace Inc. / Korn Ferry Talent Suite
+           Senior Software Engineer
+           Recommendation systems, PostgreSQL design, APIs, and integrations
+
+2020–2023  Eliptico IT Solutions
+           Technical Lead / Senior Software Engineer
+           Enterprise SaaS, healthcare, identity, and database performance
+
+2020       Precily Inc.
+           Senior Software Engineer
+           AI-enabled document-assessment backend integration
+
+2015–2020  Techlet Solutions
+           Software Engineer
+           APIs, search, dashboards, integrations, and reporting
+```
+
+<details>
+<summary><strong>View detailed experience</strong></summary>
+
+<br>
 
 ### iSpace Inc. — Senior Software Engineer
-**Client: Korn Ferry TalentSuite**  
-_June 2025 – June 2026 · New York, USA_
+**Client: Korn Ferry Talent Suite**  
+_June 2025 – June 2026 · Remote_
 
-- Contributed across backend and frontend systems supporting recommendation, personalization, integration, and enterprise learning workflows
-- Architected a configurable recommendation engine using `json-rules-engine`, reducing client onboarding effort by approximately **30%**
+- Designed and implemented a configurable recommendation engine using `json-rules-engine`, reducing client-configuration effort by approximately **30%**
+- Designed the foundational PostgreSQL model for a new enterprise learning module, including approximately **14 production tables**
 - Built backend services and APIs using NestJS, TypeScript, PostgreSQL, TypeORM, and enterprise integration patterns
-- Delivered integrations for learning content, reporting, progress synchronization, and external-provider workflows
+- Delivered integrations for learning content, progress synchronization, Yoodli SSO, and external-provider workflows
 - Improved API response times by approximately **20%** through query optimization and indexing
-- Contributed to 15+ core APIs and AI role-play integrations supporting enterprise learning use cases
-- Performed API and performance validation using Postman and JMeter, alongside manual functional and regression testing
+- Contributed to **15+ core APIs** and AI role-play integrations supporting enterprise learning use cases
 
 ### Eliptico IT Solutions — Technical Lead / Senior Software Engineer
 _October 2020 – July 2023_
 
-- Led a cross-functional team of **12 engineers** across frontend, backend, QA, and product delivery
+- Led technical delivery across a cross-functional team of **12 engineers**
 - Owned architecture decisions, sprint planning, code reviews, release coordination, and production delivery
-- Delivered enterprise SaaS platforms supporting learning, coaching, talent-management, and healthcare workflows
-- Improved PostgreSQL query performance by up to **50%** through indexing and execution-plan optimization
-- Built backend services supporting HIPAA-regulated workflows using Azure AD, SAML 2.0 SSO, JWT, OAuth, and RBAC
+- Designed and developed **30+ REST APIs** using NestJS, TypeScript, PostgreSQL, and Express
+- Improved PostgreSQL query performance by up to **50%**
+- Built backend services supporting HIPAA-regulated workflows using Azure AD, SAML 2.0 SSO, JWT, OAuth 2.0, and RBAC
+
+### Precily Inc. — Senior Software Engineer
+_May 2020 – October 2020_
+
+- Owned backend development for an AI-enabled document-assessment workflow using Node.js, TypeScript, and MongoDB
+- Integrated application services with a data-science pipeline
+- Defined backend interfaces and data-exchange workflows with data-science and application teams
 
 ### Techlet Solutions — Software Engineer
-_July 2016 – September 2020_
+_September 2015 – May 2020_
 
 - Built full-stack applications using React, Redux, Node.js, PHP, MySQL, MongoDB, and Elasticsearch
-- Designed **100+ REST APIs**, backend workflows, and database-driven services across 5–6 enterprise projects
-- Used Postman and JMeter for API and performance validation, supported by manual functional and regression testing
+- Designed APIs, backend workflows, and database-driven services across multiple enterprise projects
+- Built IMDb and TMDB movie-data ingestion workflows and Elasticsearch-backed search experiences
+- Developed Drupal frontend features and PHP-based third-party integrations
+- Delivered Tableau reporting under deadline pressure after independently learning the platform
+
+</details>
 
 ---
 
-## Education
+## Education and Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<p><img src="./assets/icons/education.svg" width="32" alt="Education"></p>
+
+### Education
 
 **Marist University**  
-Master of Science in Information Systems Management · **2023–2025** · **GPA: 3.95**
+M.S. in Information Systems and Management  
+**2023–2025 · GPA: 3.95**
 
-**AKTU**  
-Bachelor of Technology in Computer Science · **2012–2016**
+**Dr. A.P.J. Abdul Kalam Technical University**  
+B.Tech. in Computer Science  
+**2012–2016**
+</td>
+<td width="50%" valign="top">
+<p><img src="./assets/icons/certificate.svg" width="32" alt="Certifications"></p>
 
----
-
-## Certifications
+### Certifications
 
 - **5-Day AI Agents Intensive** — Google / Kaggle, 2025
 - **AI Agents 101: Building AI Agents with MCP and Open-Source Inference** — AMD, 2025
+</td>
+</tr>
+</table>
 
 ---
-
-## Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/sanjana-peter" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="mailto:sanjanapeter.career@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Sanjana Peter" />
-  </a>
-  <a href="https://cal.com/sanjanapeter/30min" target="_blank">
-    <img src="https://img.shields.io/badge/Book_a_Call-30_min-22C55E?style=flat-square&logo=googlecalendar&logoColor=white" alt="Book a 30-minute call" />
-  </a>
+  <strong>Open to senior backend, backend-focused full-stack, and technical-lead opportunities.</strong>
 </p>
 
----
-
-> Build reliable systems, make the architecture understandable, and keep ownership clear.
+<p align="center">
+  <a href="https://linkedin.com/in/sanjanapeterlead">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:sanjanapeter.career@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://cal.com/sanjanapeter/30min">Book a call</a>
+</p>

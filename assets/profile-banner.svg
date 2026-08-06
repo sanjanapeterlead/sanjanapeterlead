@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Sanjana Peter — Senior Backend Engineer</title>
+  <desc id="desc">A dark, minimal profile banner highlighting backend engineering, enterprise SaaS, and applied AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#172033"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C6A15B"/>
+      <stop offset="100%" stop-color="#E4C78B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <circle cx="1080" cy="40" r="190" fill="#FFFFFF" opacity="0.025"/>
+  <circle cx="1110" cy="285" r="125" fill="#C6A15B" opacity="0.05"/>
+  <rect x="72" y="64" width="76" height="6" rx="3" fill="url(#accent)"/>
+  <text x="72" y="135" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="1">SANJANA PETER</text>
+  <text x="72" y="184" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="500">Senior Software Engineer · Backend-Focused Full Stack</text>
+  <text x="72" y="229" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21">Node.js  ·  TypeScript  ·  NestJS  ·  PostgreSQL  ·  Enterprise SaaS</text>
+  <text x="72" y="275" fill="#C6A15B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="2">BACKEND SYSTEMS  /  ENTERPRISE INTEGRATIONS  /  APPLIED AI</text>
+</svg>
